@@ -11,14 +11,15 @@
 
 ## Changelog
 * 1.1:
-  * Fixed couple major bugs. Iteration prediction and final results are on point.
+  * Fixed couple major bugs. Iteration prediction and final results are more accurate.
   * UI tweaks.
 * 1.0:
   * Initial release.
 
 ## Future Improvements
 * Take drag into account.
-* Use better algorithm - remove unnecessary calculations.
+* Optimise algorithm.
+  * Remove unnecessary calculations.
 * Support landscape view in addition to portrait view.
 
 *Ordered by priority.*
