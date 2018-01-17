@@ -6,7 +6,7 @@
 * **Source:**
   * [Arc Solver @ Google Play][ArcSolverGPlay]
 
-<img width="30%" src="https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Kinematics.png"><img width="30%" src="https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Results.png">
+<img width="30%" src="https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Kinematics.png"> <img width="30%" src="https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Results.png">
 
 ![Kinematics](https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Kinematics.png)![Results](https://github.com/MAShah-UK/ArcSolver/blob/master/FINAL/Results.png)
 
