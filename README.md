@@ -16,7 +16,7 @@
 * 1.0:
   * Initial release.
 
-## Future improvements
+## Future Improvements
 * Take drag into account.
 * Use better algorithm - remove unnecessary calculations.
 * Support landscape view in addition to portrait view.
