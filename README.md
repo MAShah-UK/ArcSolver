@@ -11,15 +11,16 @@
 
 ## Changelog
 * 1.1:
- * Fixed couple major bugs. Iteration prediction and final results are on point.
- * UI tweaks.
+  * Fixed couple major bugs. Iteration prediction and final results are on point.
+  * UI tweaks.
 * 1.0:
- * Initial release.
+  * Initial release.
 
 ## Future improvements:
 * Take drag into account.
 * Use better algorithm - remove unnecessary calculations.
 * Support landscape view in addition to portrait view.
+
 *Ordered by priority.*
 
 [ArcSolverGPlay]: https://play.google.com/store/apps/details?id=cul.ace.tbscalculator&hl=en_GB
