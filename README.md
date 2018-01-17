@@ -24,4 +24,7 @@
 
 *Ordered by priority.*
 
+## Discontinuation
+The deadline for this project has passed.
+
 [ArcSolverGPlay]: https://play.google.com/store/apps/details?id=cul.ace.tbscalculator&hl=en_GB
