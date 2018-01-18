@@ -25,6 +25,6 @@
 *Ordered by priority.*
 
 ## Discontinuation
-The project was created for a "tennis ball launcher" university group project.The deadline for this project has passed.
+The project was created for a "tennis ball launcher" university group coursework.The deadline for this coursework has passed.
 
 [ArcSolverGPlay]: https://play.google.com/store/apps/details?id=cul.ace.tbscalculator&hl=en_GB
