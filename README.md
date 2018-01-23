@@ -11,7 +11,9 @@
 
 ## Changelog
 * 1.1:
-  * Fixed couple major bugs. Iteration prediction and final results are more accurate.
+  * Fixed a couple major bugs. 
+    * Iteration prediction is more accurate.
+    * Final results are more accurate.
   * UI tweaks.
 * 1.0:
   * Initial release.
