@@ -25,6 +25,6 @@
 *Ordered by priority.*
 
 ## Discontinuation
-The project was created for a "tennis ball launcher" university group coursework.The deadline for this coursework has passed.
+The project was created for a "tennis ball launcher" university group coursework.The deadline for this coursework has passed. Creating this program was not required as part of the module. I chose to do it to learn how C++ integrates with Qt.
 
 [ArcSolverGPlay]: https://play.google.com/store/apps/details?id=cul.ace.tbscalculator&hl=en_GB
